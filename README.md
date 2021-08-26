@@ -12,3 +12,6 @@ collection of useful resources for doing data science, ML, deployment
 
 ## Performance control
 1. [JMeter](https://jmeter.apache.org/): application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance
+
+## Deployment
+1. [ansible](https://www.ansible.com/): an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows.
