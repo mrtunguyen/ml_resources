@@ -16,3 +16,6 @@ collection of useful resources for doing data science, ML, deployment
 ## Deployment
 1. [ansible](https://www.ansible.com/): an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows.
 2. [Cortex](https://github.com/cortexlabs/cortex): Containers as a service on AWS. Deploy, manage, and scale containers without worrying about Kubernetes.
+
+## ML system design
+1. [How to automatically deploy a ML classifier to the cloud with AWS CDK](https://medium.com/axel-springer-tech/how-to-automatically-deploy-a-ml-classifier-to-the-cloud-with-aws-cdk-20f8946d913c)
