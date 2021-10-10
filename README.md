@@ -36,3 +36,5 @@ collection of useful resources for doing data science, ML, deployment
   
 ## ML system design
 1. [How to automatically deploy a ML classifier to the cloud with AWS CDK](https://medium.com/axel-springer-tech/how-to-automatically-deploy-a-ml-classifier-to-the-cloud-with-aws-cdk-20f8946d913c)
+2. [System Design and recommendation Algorithms of Youtube, Spotify, Airbnb, Netflix and Uber](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html?m=1)
+3. 
